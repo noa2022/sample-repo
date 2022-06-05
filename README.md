@@ -1,2 +1,3 @@
 # sample-repo
-mainブランチで更新
+testブランチで更新
+developブランチにマージ後にmainブランチに最終的にマージ予定
