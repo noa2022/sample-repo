@@ -1,2 +1,2 @@
 # sample-repo
-new-featureブランチで更新
+developブランチで更新
