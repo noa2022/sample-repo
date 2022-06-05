@@ -1,2 +1,2 @@
 # sample-repo
-developブランチで更新
+mainブランチで更新
