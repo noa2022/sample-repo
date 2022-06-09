@@ -1,7 +1,4 @@
 # sample-repo
 ローカルリポジトリで変更
 リモートリポジトリで更新
-
-Github上で内容を更新
-localで編集をしてコンフリクトを発生させる
-編集をGitHub上で追加で加える
+rebase-practiceブランチで更新
