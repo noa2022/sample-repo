@@ -3,4 +3,4 @@
 リモートリポジトリで更新
 rebase-practiceブランチで更新(rebase conflict)
 rebase pull用
-stash練習(2nd)
+stash練習(test`:wq)
