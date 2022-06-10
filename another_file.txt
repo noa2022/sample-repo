@@ -1,2 +1,0 @@
-create a new file
-pull時のrebase用コミット
