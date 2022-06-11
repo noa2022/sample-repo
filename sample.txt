@@ -1,3 +1,2 @@
 sample
-modify(1st)
 modify(2nd)
